@@ -103,7 +103,7 @@ Themes:
 New languages:
 
 - BitBake ([#10010](https://github.com/helix-editor/helix/pull/10010))
-- Earthfile ([#10111](https://github.com/helix-editor/helix/pull/10111), [#10489](https://github.com/helix-editor/helix/pull/10489))
+- Earthfile ([#10111](https://github.com/helix-editor/helix/pull/10111), [#10489](https://github.com/helix-editor/helix/pull/10489), [#10779](https://github.com/helix-editor/helix/pull/10779))
 - TCL ([#9837](https://github.com/helix-editor/helix/pull/9837))
 - ADL ([#10029](https://github.com/helix-editor/helix/pull/10029))
 - LDIF ([#10330](https://github.com/helix-editor/helix/pull/10330))
@@ -157,7 +157,6 @@ Updated languages and queries:
 - Update `tree-sitter-slint` ([#10749](https://github.com/helix-editor/helix/pull/10749))
 - Add missing operators for Solidity highlights ([#10735](https://github.com/helix-editor/helix/pull/10735))
 - Update `tree-sitter-inko` ([#10805](https://github.com/helix-editor/helix/pull/10805))
-- Update `tree-sitter-earthfile` ([#10779](https://github.com/helix-editor/helix/pull/10779))
 - Add `py`, `hs`, `rs` and `typ` injection regexes ([#10785](https://github.com/helix-editor/helix/pull/10785))
 - Update Swift grammar and queries ([#10802](https://github.com/helix-editor/helix/pull/10802))
 - Update Cairo grammar and queries ([#10919](https://github.com/helix-editor/helix/pull/10919))
